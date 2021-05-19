@@ -1,0 +1,6 @@
+
+cifar/checkpoint
+cifar/runs
+data
+*.pyc
+
